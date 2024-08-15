@@ -5,7 +5,7 @@
 Create an annual sales report for the Vrinda Store in the year 2022. These results will allow the store to see what they need to improve for year 2023.
 
 ## **Dataset used**
-- <a href="https://github.com/sanasingh016/Excel_Store_Analysis/blob/141bd0e7e23b66ddf932a209e50405abcd43c165/Raw%20Data.xlsx">Raw Data</a>
+- <a href="https://github.com/sanasingh016/Excel_Store_Analysis/blob/9f8dabdc9788b01244ae54447b3bdea271b9985b/Raw%20Data%20Provided.xlsx">Raw Data</a>
 
 ## **What To Find**
 
