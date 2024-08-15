@@ -27,7 +27,8 @@ Create an annual sales report for the Vrinda Store in the year 2022. These resul
 - Make all the pivot tables into charts that will help us visualize the data better.
 - Combine all the findings into a single dashboard and add a slicer to make the spreadsheet interactive.
 
-
+## **Final Result**
+![Alt text of the image](https://github.com/sanasingh016/Excel_Store_Analysis/blob/6226d041a7eb922ccce7b96384c6b9ce8262a79d/Dashboard.png)
 
 ## **Project Insight**
 
